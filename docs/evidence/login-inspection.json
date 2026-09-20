@@ -1,0 +1,33 @@
+{
+  "forms": [
+    {
+      "action": "/login",
+      "method": "post",
+      "fields": [
+        {
+          "name": "redirect",
+          "type": "hidden",
+          "required": false,
+          "hasValue": false
+        },
+        {
+          "name": "username",
+          "type": "text",
+          "required": false,
+          "hasValue": false
+        },
+        {
+          "name": "password",
+          "type": "password",
+          "required": false,
+          "hasValue": false
+        }
+      ]
+    }
+  ],
+  "warning": "WARNING! One wrong login and your IP will be blocked :)",
+  "date": "2026-09-19",
+  "password_submitted": false,
+  "browser_navigation": "challenge then login form",
+  "independent_http": "403 challenge, including after clearance refresh"
+}

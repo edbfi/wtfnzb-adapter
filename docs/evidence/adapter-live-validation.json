@@ -1,0 +1,62 @@
+[
+  {
+    "mode": "movie",
+    "query": "The.Matrix.1999",
+    "status": 200,
+    "seconds": 61.0,
+    "count": 4,
+    "error": null,
+    "earliest_date": "Mon, 23 Mar 2026 11:26:17 +0100"
+  },
+  {
+    "mode": "tvsearch",
+    "query": "SpongeBob DocuPants",
+    "status": 200,
+    "seconds": 20.17,
+    "count": 63,
+    "error": null,
+    "earliest_date": "Mon, 14 Mar 2022 19:39:37 +0100"
+  },
+  {
+    "mode": "get",
+    "status": 502,
+    "bytes": 112,
+    "root": "error"
+  },
+  {
+    "operation": "historical NZB retrieval through isolated Prowlarr",
+    "status": 301,
+    "bytes": 0,
+    "content_type": null,
+    "root": null,
+    "doctype": false,
+    "location_path": "/api"
+  },
+  {
+    "operation": "Attempt to disable Usenet redirect (configuration rejected; redirect remained enabled)",
+    "status": 301,
+    "bytes": 0,
+    "content_type": null,
+    "root": null,
+    "doctype": false,
+    "configuration_status": 400
+  },
+  {
+    "operation": "historical NZB retrieval by following Prowlarr required Usenet redirect",
+    "status": 502,
+    "bytes": 110,
+    "content_type": "application/xml",
+    "root": "error",
+    "doctype": false,
+    "files": 0
+  },
+  {
+    "operation": "bounded follow-up NZB retrieval after cooldown",
+    "status": 200,
+    "error": null,
+    "root": "{http://www.newzbin.com/DTD/2003/nzb}nzb",
+    "bytes": 3058,
+    "doctype": true,
+    "files": 8
+  }
+]

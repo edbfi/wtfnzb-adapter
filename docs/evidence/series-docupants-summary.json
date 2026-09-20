@@ -1,0 +1,22 @@
+{
+  "rows": 63,
+  "unique": 63,
+  "dateRange": [
+    "2022-03-14 19:39:37",
+    "2026-03-20 03:06:52"
+  ],
+  "categories": [
+    "5030",
+    "5040"
+  ],
+  "missing": 0,
+  "last": {
+    "guid": "d060e624316ef2c23dc2839682c9468d",
+    "title": "SpongeBob.DocuPants.S01.WEBRip.x264-ION10 [eeff22ccc]",
+    "category": "5030",
+    "date": "2022-03-15 16:10:21",
+    "size": "0.18 MB100%"
+  },
+  "closesHTML": true,
+  "pagination": []
+}

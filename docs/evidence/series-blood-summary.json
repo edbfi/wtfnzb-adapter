@@ -1,0 +1,28 @@
+{
+  "request": "/series/165800",
+  "scope": "One complete HTTP/HTML response; no proof of exhaustive series coverage",
+  "rows": 1168,
+  "unique": 1168,
+  "dateRange": [
+    "2025-08-08 15:08:10",
+    "2026-09-19 19:49:16"
+  ],
+  "categories": [
+    "5040",
+    "5045",
+    "5020",
+    "5030",
+    "5050",
+    "5060"
+  ],
+  "missing": 0,
+  "last": {
+    "guid": "31d2728e733ff958e6f54e77be083a27",
+    "title": "Outlander.Blood.of.my.Blood.S01.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX [JAwpD6Y]",
+    "category": "5040",
+    "date": "2025-10-10 13:39:52",
+    "size": "49.70 GB100%"
+  },
+  "closesHTML": true,
+  "pagination": []
+}

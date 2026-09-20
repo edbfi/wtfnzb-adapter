@@ -1,0 +1,40 @@
+# prek.toml — Git hooks for wtfnzb-adapter
+# Docs: https://prek.j178.dev/configuration/
+default_stages = ["pre-commit"]
+default_install_hook_types = ["pre-commit", "commit-msg"]
+
+[[repos]]
+repo = "builtin"
+hooks = [
+  { id = "trailing-whitespace" },
+  { id = "end-of-file-fixer" },
+  { id = "mixed-line-ending", args = ["--fix=lf"] },
+  { id = "check-merge-conflict" },
+  { id = "check-case-conflict" },
+  { id = "check-added-large-files", args = ["--maxkb=512"] },
+  { id = "detect-private-key" },
+  { id = "check-json" },
+  { id = "check-toml" },
+  { id = "check-yaml" },
+  { id = "no-commit-to-branch", args = ["--branch", "main"] },
+]
+
+[[repos]]
+repo = "https://github.com/compilerla/conventional-pre-commit"
+rev = "v4.4.0"
+hooks = [{ id = "conventional-pre-commit", stages = ["commit-msg"] }]
+
+[[repos]]
+repo = "https://github.com/gitleaks/gitleaks"
+rev = "v8.30.1"
+hooks = [{ id = "gitleaks" }]
+
+[[repos]]
+repo = "local"
+hooks = [
+  { id = "uv-lock-check", name = "uv lock check", entry = "uv lock --check", language = "system", pass_filenames = false, always_run = true },
+  { id = "basedpyright-config-gate", name = "basedpyright config gate", entry = "uv run --locked python tools/check_basedpyright_config.py", language = "system", pass_filenames = false, always_run = true },
+  { id = "ruff-format", name = "ruff format check", entry = "uv run --locked ruff format --check .", language = "system", pass_filenames = false, always_run = true },
+  { id = "ruff-check", name = "ruff check", entry = "uv run --locked ruff check .", language = "system", pass_filenames = false, always_run = true },
+  { id = "basedpyright", name = "basedpyright", entry = "uv run --locked basedpyright", language = "system", pass_filenames = false, always_run = true },
+]

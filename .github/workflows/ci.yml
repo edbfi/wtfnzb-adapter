@@ -1,0 +1,30 @@
+name: Checks
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  python:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync --locked
+      - run: uv run --locked prek validate-config prek.toml
+      - name: Project gates and shared hygiene
+        env:
+          SKIP: no-commit-to-branch
+        run: uv run --locked prek run --all-files
+      - run: uv run --locked pytest
+      - run: uv build --no-sources
+      - name: Validate pull request commit messages
+        if: github.event_name == 'pull_request'
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          git rev-list "$BASE_SHA..$HEAD_SHA" | while read -r commit; do
+            git log -1 --format=%B "$commit" > /tmp/commit-message
+            uv run --locked prek run conventional-pre-commit --hook-stage commit-msg --commit-msg-filename /tmp/commit-message
+          done

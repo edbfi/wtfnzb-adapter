@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1000,
+    "label": "All Console"
+  },
+  {
+    "id": 1010,
+    "label": "NDS"
+  },
+  {
+    "id": 1080,
+    "label": "PS3"
+  },
+  {
+    "id": 1100,
+    "label": "PS4"
+  },
+  {
+    "id": 1020,
+    "label": "PSP"
+  },
+  {
+    "id": 1030,
+    "label": "Wii"
+  },
+  {
+    "id": 1060,
+    "label": "WiiWare/VC"
+  },
+  {
+    "id": 1070,
+    "label": "XBOX 360 DLC"
+  },
+  {
+    "id": 1040,
+    "label": "Xbox"
+  },
+  {
+    "id": 1050,
+    "label": "Xbox 360"
+  },
+  {
+    "id": 1090,
+    "label": "Xbox One"
+  },
+  {
+    "id": 2000,
+    "label": "All Movies"
+  },
+  {
+    "id": 2060,
+    "label": "3D"
+  },
+  {
+    "id": 2050,
+    "label": "BluRay"
+  },
+  {
+    "id": 2010,
+    "label": "Foreign"
+  },
+  {
+    "id": 2040,
+    "label": "HD"
+  },
+  {
+    "id": 2020,
+    "label": "Other"
+  },
+  {
+    "id": 2030,
+    "label": "SD"
+  },
+  {
+    "id": 2045,
+    "label": "UHD"
+  },
+  {
+    "id": 3000,
+    "label": "All Audio"
+  },
+  {
+    "id": 3030,
+    "label": "Audiobook"
+  },
+  {
+    "id": 3040,
+    "label": "Lossless"
+  },
+  {
+    "id": 3010,
+    "label": "MP3"
+  },
+  {
+    "id": 3020,
+    "label": "Video"
+  },
+  {
+    "id": 4000,
+    "label": "All PC"
+  },
+  {
+    "id": 4010,
+    "label": "0day"
+  },
+  {
+    "id": 4050,
+    "label": "Games"
+  },
+  {
+    "id": 4020,
+    "label": "ISO"
+  },
+  {
+    "id": 4030,
+    "label": "Mac"
+  },
+  {
+    "id": 4070,
+    "label": "Mobile-Android"
+  },
+  {
+    "id": 4040,
+    "label": "Mobile-Other"
+  },
+  {
+    "id": 4060,
+    "label": "Mobile-iOS"
+  },
+  {
+    "id": 5000,
+    "label": "All TV"
+  },
+  {
+    "id": 5070,
+    "label": "Anime"
+  },
+  {
+    "id": 5080,
+    "label": "Documentary"
+  },
+  {
+    "id": 5020,
+    "label": "Foreign"
+  },
+  {
+    "id": 5040,
+    "label": "HD"
+  },
+  {
+    "id": 5050,
+    "label": "Other"
+  },
+  {
+    "id": 5030,
+    "label": "SD"
+  },
+  {
+    "id": 5060,
+    "label": "Sport"
+  },
+  {
+    "id": 5045,
+    "label": "UHD"
+  },
+  {
+    "id": 6000,
+    "label": "All XXX"
+  },
+  {
+    "id": 6010,
+    "label": "DVD"
+  },
+  {
+    "id": 6060,
+    "label": "ImgSet"
+  },
+  {
+    "id": 6070,
+    "label": "Other"
+  },
+  {
+    "id": 6050,
+    "label": "Pack"
+  },
+  {
+    "id": 6020,
+    "label": "WMV"
+  },
+  {
+    "id": 6030,
+    "label": "XviD"
+  },
+  {
+    "id": 6040,
+    "label": "x264"
+  },
+  {
+    "id": 7000,
+    "label": "All Books"
+  },
+  {
+    "id": 7030,
+    "label": "Comics"
+  },
+  {
+    "id": 7020,
+    "label": "Ebook"
+  },
+  {
+    "id": 7010,
+    "label": "Mags"
+  },
+  {
+    "id": 8000,
+    "label": "All Other"
+  },
+  {
+    "id": 8050,
+    "label": "4chanImage"
+  },
+  {
+    "id": 8010,
+    "label": "Misc"
+  },
+  {
+    "id": 8030,
+    "label": "Reddit-Image"
+  },
+  {
+    "id": 8020,
+    "label": "Release-Info"
+  },
+  {
+    "id": 8060,
+    "label": "WtF-aNiMe"
+  },
+  {
+    "id": 8040,
+    "label": "WtF-pOrN"
+  }
+]

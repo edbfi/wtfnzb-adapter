@@ -1,0 +1,71 @@
+[project]
+name = "wtfnzb-adapter"
+version = "0.1.0"
+description = "Experimental, bounded WTFNZB Newznab adapter"
+readme = "README.md"
+license = "AGPL-3.0-only"
+license-files = ["LICENSE"]
+authors = [
+    { name = "edbfi", email = "326875205+edbfi@users.noreply.github.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.14,<5",
+    "defusedxml>=0.7,<1",
+    "granian>=2.8",
+    "httpx>=0.28,<1",
+    "litestar-granian>=0.15",
+    "litestar[standard]>=2.24,<3",
+    "msgspec>=0.21",
+    "python-dotenv>=1.1,<2",
+]
+
+[project.scripts]
+wtfnzb-session = "wtfnzb_adapter.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "anyio>=4.6",
+    "basedpyright>=1.39",
+    "prek>=0.5.3",
+    "pytest>=8.3",
+    "ruff>=0.16",
+    "types-defusedxml>=0.7.0.20260504",
+]
+
+[tool.ruff]
+target-version = "py314"
+line-length = 100
+src = ["src", "tests", "tools"]
+
+[tool.ruff.lint]
+select = ["E", "W", "F", "I", "B", "UP", "SIM", "TC", "ASYNC", "RUF"]
+ignore = ["E501"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["wtfnzb_adapter", "tools"]
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.basedpyright]
+# HARD RULE — NO GLOBAL DIAGNOSTIC OVERRIDES IN THIS TABLE. EVER.
+# Never set failOnWarnings, disable a report* rule, or add a baseline.
+# Only the three keys below are allowed; CI and prek enforce this.
+# Warnings require code fixes. Only justified, rule-specific inline exceptions
+# at genuinely untyped third-party call sites are permitted (subject to review).
+pythonVersion = "3.14"
+typeCheckingMode = "recommended"
+include = ["src", "tests", "tools"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff.lint.flake8-type-checking]
+runtime-evaluated-base-classes = ["msgspec.Struct", "litestar.Controller"]
+runtime-evaluated-decorators = ["litestar.get"]
