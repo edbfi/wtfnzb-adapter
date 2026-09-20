@@ -1,0 +1,123 @@
+[
+  {
+    "mode": "movie",
+    "query": "The.Matrix.1999",
+    "status": 429,
+    "seconds": 18.39,
+    "count": 0,
+    "root": "error",
+    "error": {
+      "code": "429",
+      "description": "Indexer is disabled till 20/09/2026 01.39.07 due to recent failures."
+    },
+    "earliest_date": null
+  },
+  {
+    "mode": "tvsearch",
+    "query": "SpongeBob DocuPants",
+    "status": 429,
+    "seconds": 0.01,
+    "count": 0,
+    "root": "error",
+    "error": {
+      "code": "429",
+      "description": "Indexer is disabled till 20/09/2026 01.39.07 due to recent failures."
+    },
+    "earliest_date": null
+  },
+  {
+    "mode": "search",
+    "query": "",
+    "status": 429,
+    "seconds": 0.0,
+    "count": 0,
+    "root": "error",
+    "error": {
+      "code": "429",
+      "description": "Indexer is disabled till 20/09/2026 01.39.07 due to recent failures."
+    },
+    "earliest_date": null
+  },
+  {
+    "mode": "tvsearch",
+    "query": "SpongeBob DocuPants",
+    "status": 429,
+    "seconds": 38.28,
+    "count": 0,
+    "root": "error",
+    "error": {
+      "code": "429",
+      "description": "Indexer is disabled till 20/09/2026 01.42.04 due to recent failures."
+    },
+    "earliest_date": null
+  },
+  {
+    "mode": "search",
+    "query": "",
+    "status": 429,
+    "seconds": 0.01,
+    "count": 0,
+    "root": "error",
+    "error": {
+      "code": "429",
+      "description": "Indexer is disabled till 20/09/2026 01.42.04 due to recent failures."
+    },
+    "earliest_date": null
+  },
+  {
+    "mode": "tvsearch",
+    "query": "SpongeBob DocuPants",
+    "status": 200,
+    "seconds": 10.62,
+    "count": 59,
+    "root": "rss",
+    "error": null,
+    "earliest_date": "Tue, 15 Mar 2022 15:10:21 +0000"
+  },
+  {
+    "mode": "search",
+    "query": "",
+    "status": 200,
+    "seconds": 9.69,
+    "count": 50,
+    "root": "rss",
+    "error": null,
+    "earliest_date": "Sat, 19 Sep 2026 23:40:31 +0000"
+  },
+  {
+    "operation": "historical NZB retrieval through isolated Prowlarr",
+    "status": 301,
+    "bytes": 0,
+    "content_type": null,
+    "root": null,
+    "doctype": false,
+    "location_path": "/api"
+  },
+  {
+    "operation": "Attempt to disable Usenet redirect (configuration rejected; redirect remained enabled)",
+    "status": 301,
+    "bytes": 0,
+    "content_type": null,
+    "root": null,
+    "doctype": false,
+    "configuration_status": 400
+  },
+  {
+    "operation": "historical NZB retrieval by following Prowlarr required Usenet redirect",
+    "status": 502,
+    "bytes": 110,
+    "content_type": "application/xml",
+    "root": "error",
+    "doctype": false,
+    "files": 0
+  },
+  {
+    "operation": "bounded follow-up NZB retrieval after cooldown",
+    "status": 200,
+    "error": null,
+    "root": "{http://www.newzbin.com/DTD/2003/nzb}nzb",
+    "bytes": 3058,
+    "doctype": true,
+    "files": 8
+  }
+]

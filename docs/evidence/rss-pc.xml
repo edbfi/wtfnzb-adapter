@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:newznab="http://www.newznab.com/DTD/2010/feeds/attributes/">
+<channel>
+<atom:link href="https://wtfnzb.example/rss?t=4000&amp;dl=1&amp;i=REDACTED&amp;r=REDACTED" rel="self" type="application/rss+xml" />
+<title>WtF[nZb]</title>
+<description>WtF[nZb] Feed</description>
+<link>https://wtfnzb.example/</link>
+<language>en-gb</language>
+<webMaster>wtfnzb@tuta.io (WtF[nZb])</webMaster>
+<category></category>
+<image>
+	<title>WtF[nZb]</title>
+	<link>https://wtfnzb.example/</link>
+	<description>Visit WtF[nZb] - Fastest nzb source!</description>
+</image>
+
+
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [484f2e2a4] [e75fe197e]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/f3e1c6ad21cb29d7137fab6ca51c793e</guid>
+	<link>https://wtfnzb.example/getnzb/f3e1c6ad21cb29d7137fab6ca51c793e.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/f3e1c6ad21cb29d7137fab6ca51c793e#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: f3e1c6ad21cb29d7137fab6ca51c793e</li><li>Name: <a href="https://wtfnzb.example/details/f3e1c6ad21cb29d7137fab6ca51c793e">Abyss.School.Update.v1.5.6-TENOKE [484f2e2a4] [e75fe197e]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:49:02 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/f3e1c6ad21cb29d7137fab6ca51c793e.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:49:02 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [7132e6443] [77d3867db]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/f6a7479dfb8a834ecca80fb51811130a</guid>
+	<link>https://wtfnzb.example/getnzb/f6a7479dfb8a834ecca80fb51811130a.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/f6a7479dfb8a834ecca80fb51811130a#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: f6a7479dfb8a834ecca80fb51811130a</li><li>Name: <a href="https://wtfnzb.example/details/f6a7479dfb8a834ecca80fb51811130a">Abyss.School.Update.v1.5.6-TENOKE [7132e6443] [77d3867db]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:48:54 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/f6a7479dfb8a834ecca80fb51811130a.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:48:54 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [f93e3ddcb] [8e2df81ae]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/056e86033dc0cc648c665de80766d610</guid>
+	<link>https://wtfnzb.example/getnzb/056e86033dc0cc648c665de80766d610.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/056e86033dc0cc648c665de80766d610#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 056e86033dc0cc648c665de80766d610</li><li>Name: <a href="https://wtfnzb.example/details/056e86033dc0cc648c665de80766d610">Abyss.School.Update.v1.5.6-TENOKE [f93e3ddcb] [8e2df81ae]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:49:11 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/056e86033dc0cc648c665de80766d610.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:49:11 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [0d462decd]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/51e5b5fb21e075e48abd28086e82a80f</guid>
+	<link>https://wtfnzb.example/getnzb/51e5b5fb21e075e48abd28086e82a80f.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/51e5b5fb21e075e48abd28086e82a80f#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 51e5b5fb21e075e48abd28086e82a80f</li><li>Name: <a href="https://wtfnzb.example/details/51e5b5fb21e075e48abd28086e82a80f">Abyss.School.Update.v1.5.6-TENOKE [0d462decd]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:48:35 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/51e5b5fb21e075e48abd28086e82a80f.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:48:35 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [6f85a22ee] [e5ec7d7a1]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/ace64fe0cf959abd57b14fb4c379b139</guid>
+	<link>https://wtfnzb.example/getnzb/ace64fe0cf959abd57b14fb4c379b139.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/ace64fe0cf959abd57b14fb4c379b139#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: ace64fe0cf959abd57b14fb4c379b139</li><li>Name: <a href="https://wtfnzb.example/details/ace64fe0cf959abd57b14fb4c379b139">Abyss.School.Update.v1.5.6-TENOKE [6f85a22ee] [e5ec7d7a1]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:48:43 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/ace64fe0cf959abd57b14fb4c379b139.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:48:43 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [092c921c4] [b2e2d0fc3]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/038d9e58b69282e7ad63fabf98afc4b4</guid>
+	<link>https://wtfnzb.example/getnzb/038d9e58b69282e7ad63fabf98afc4b4.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/038d9e58b69282e7ad63fabf98afc4b4#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 038d9e58b69282e7ad63fabf98afc4b4</li><li>Name: <a href="https://wtfnzb.example/details/038d9e58b69282e7ad63fabf98afc4b4">Abyss.School.Update.v1.5.6-TENOKE [092c921c4] [b2e2d0fc3]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:48:08 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/038d9e58b69282e7ad63fabf98afc4b4.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:48:08 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [9339b6484] [d1010c5c4]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/8b58291e87f5dca464f3577fbdfd1e6d</guid>
+	<link>https://wtfnzb.example/getnzb/8b58291e87f5dca464f3577fbdfd1e6d.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/8b58291e87f5dca464f3577fbdfd1e6d#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 8b58291e87f5dca464f3577fbdfd1e6d</li><li>Name: <a href="https://wtfnzb.example/details/8b58291e87f5dca464f3577fbdfd1e6d">Abyss.School.Update.v1.5.6-TENOKE [9339b6484] [d1010c5c4]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:48:16 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/8b58291e87f5dca464f3577fbdfd1e6d.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:48:16 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [9adfc5cd9] [8c0035706]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/2ca5d85294366bc42652cedebab9dd68</guid>
+	<link>https://wtfnzb.example/getnzb/2ca5d85294366bc42652cedebab9dd68.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/2ca5d85294366bc42652cedebab9dd68#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 2ca5d85294366bc42652cedebab9dd68</li><li>Name: <a href="https://wtfnzb.example/details/2ca5d85294366bc42652cedebab9dd68">Abyss.School.Update.v1.5.6-TENOKE [9adfc5cd9] [8c0035706]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:48:25 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/2ca5d85294366bc42652cedebab9dd68.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:48:25 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [4b88d398b] [8b6605efc] [e8114cf34]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/320495a9a8e69e1cf16b1ce8d1d5efe2</guid>
+	<link>https://wtfnzb.example/getnzb/320495a9a8e69e1cf16b1ce8d1d5efe2.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/320495a9a8e69e1cf16b1ce8d1d5efe2#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 320495a9a8e69e1cf16b1ce8d1d5efe2</li><li>Name: <a href="https://wtfnzb.example/details/320495a9a8e69e1cf16b1ce8d1d5efe2">Abyss.School.Update.v1.5.6-TENOKE [4b88d398b] [8b6605efc] [e8114cf34]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:25:06 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/320495a9a8e69e1cf16b1ce8d1d5efe2.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:25:06 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [6103802f3] [7792e8f14] [ea4efd379]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/1d20dbbede84446d0174f7100045788c</guid>
+	<link>https://wtfnzb.example/getnzb/1d20dbbede84446d0174f7100045788c.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/1d20dbbede84446d0174f7100045788c#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 1d20dbbede84446d0174f7100045788c</li><li>Name: <a href="https://wtfnzb.example/details/1d20dbbede84446d0174f7100045788c">Abyss.School.Update.v1.5.6-TENOKE [6103802f3] [7792e8f14] [ea4efd379]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:24:53 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/1d20dbbede84446d0174f7100045788c.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:24:53 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [46f5d1bd0] [7840dc2f3] [25bb53418]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/31efee5e7e3b2c27c4e4fa2add16828d</guid>
+	<link>https://wtfnzb.example/getnzb/31efee5e7e3b2c27c4e4fa2add16828d.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/31efee5e7e3b2c27c4e4fa2add16828d#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 31efee5e7e3b2c27c4e4fa2add16828d</li><li>Name: <a href="https://wtfnzb.example/details/31efee5e7e3b2c27c4e4fa2add16828d">Abyss.School.Update.v1.5.6-TENOKE [46f5d1bd0] [7840dc2f3] [25bb53418]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:24:39 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/31efee5e7e3b2c27c4e4fa2add16828d.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:24:39 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [6068cd636] [c8cfa9847] [56e2dcdc6]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/1a9c36edc3ce37781d185d6d8a6cca0f</guid>
+	<link>https://wtfnzb.example/getnzb/1a9c36edc3ce37781d185d6d8a6cca0f.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/1a9c36edc3ce37781d185d6d8a6cca0f#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 1a9c36edc3ce37781d185d6d8a6cca0f</li><li>Name: <a href="https://wtfnzb.example/details/1a9c36edc3ce37781d185d6d8a6cca0f">Abyss.School.Update.v1.5.6-TENOKE [6068cd636] [c8cfa9847] [56e2dcdc6]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:24:54 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/1a9c36edc3ce37781d185d6d8a6cca0f.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:24:54 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [7116401b9] [817558157] [70aeafe4c]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/140bd2723a4275bdb93f64695887f438</guid>
+	<link>https://wtfnzb.example/getnzb/140bd2723a4275bdb93f64695887f438.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/140bd2723a4275bdb93f64695887f438#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 140bd2723a4275bdb93f64695887f438</li><li>Name: <a href="https://wtfnzb.example/details/140bd2723a4275bdb93f64695887f438">Abyss.School.Update.v1.5.6-TENOKE [7116401b9] [817558157] [70aeafe4c]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:24:43 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/140bd2723a4275bdb93f64695887f438.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:24:43 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [4f25d7bd6] [569168e27] [6fa31d06b]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/6f5d5898d09c535b4fe39ebb529f80c8</guid>
+	<link>https://wtfnzb.example/getnzb/6f5d5898d09c535b4fe39ebb529f80c8.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/6f5d5898d09c535b4fe39ebb529f80c8#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 6f5d5898d09c535b4fe39ebb529f80c8</li><li>Name: <a href="https://wtfnzb.example/details/6f5d5898d09c535b4fe39ebb529f80c8">Abyss.School.Update.v1.5.6-TENOKE [4f25d7bd6] [569168e27] [6fa31d06b]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:24:46 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/6f5d5898d09c535b4fe39ebb529f80c8.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:24:46 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [92fb4b46b] [e43dc65b8] [f80bc48d2]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/94fb2f6d7f3335fe71ec357a41662d87</guid>
+	<link>https://wtfnzb.example/getnzb/94fb2f6d7f3335fe71ec357a41662d87.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/94fb2f6d7f3335fe71ec357a41662d87#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 94fb2f6d7f3335fe71ec357a41662d87</li><li>Name: <a href="https://wtfnzb.example/details/94fb2f6d7f3335fe71ec357a41662d87">Abyss.School.Update.v1.5.6-TENOKE [92fb4b46b] [e43dc65b8] [f80bc48d2]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:24:22 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/94fb2f6d7f3335fe71ec357a41662d87.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:24:22 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [7bc1ffc63] [fe1cc229e] [7fde5cc30]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/a0fc383bebf9242f7982ea1f699f3ebb</guid>
+	<link>https://wtfnzb.example/getnzb/a0fc383bebf9242f7982ea1f699f3ebb.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/a0fc383bebf9242f7982ea1f699f3ebb#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: a0fc383bebf9242f7982ea1f699f3ebb</li><li>Name: <a href="https://wtfnzb.example/details/a0fc383bebf9242f7982ea1f699f3ebb">Abyss.School.Update.v1.5.6-TENOKE [7bc1ffc63] [fe1cc229e] [7fde5cc30]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:24:32 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/a0fc383bebf9242f7982ea1f699f3ebb.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:24:32 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [6dbca6ce3] [f47372fc4] [d0596a7a7]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/8507e0bfd09600bf839905b76e17447e</guid>
+	<link>https://wtfnzb.example/getnzb/8507e0bfd09600bf839905b76e17447e.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/8507e0bfd09600bf839905b76e17447e#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 8507e0bfd09600bf839905b76e17447e</li><li>Name: <a href="https://wtfnzb.example/details/8507e0bfd09600bf839905b76e17447e">Abyss.School.Update.v1.5.6-TENOKE [6dbca6ce3] [f47372fc4] [d0596a7a7]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:24:31 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/8507e0bfd09600bf839905b76e17447e.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:24:31 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [41db1d503] [3e8cf96bf] [515758952]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/26e7b79a382ddd5d2b7e842c0873be32</guid>
+	<link>https://wtfnzb.example/getnzb/26e7b79a382ddd5d2b7e842c0873be32.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/26e7b79a382ddd5d2b7e842c0873be32#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 26e7b79a382ddd5d2b7e842c0873be32</li><li>Name: <a href="https://wtfnzb.example/details/26e7b79a382ddd5d2b7e842c0873be32">Abyss.School.Update.v1.5.6-TENOKE [41db1d503] [3e8cf96bf] [515758952]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:21:14 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/26e7b79a382ddd5d2b7e842c0873be32.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:21:14 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [3a5caa04d] [27c682808] [43bce6d10]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/36491ded2bc20d64dba47f2b5e8c1b0e</guid>
+	<link>https://wtfnzb.example/getnzb/36491ded2bc20d64dba47f2b5e8c1b0e.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/36491ded2bc20d64dba47f2b5e8c1b0e#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 36491ded2bc20d64dba47f2b5e8c1b0e</li><li>Name: <a href="https://wtfnzb.example/details/36491ded2bc20d64dba47f2b5e8c1b0e">Abyss.School.Update.v1.5.6-TENOKE [3a5caa04d] [27c682808] [43bce6d10]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:21:19 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/36491ded2bc20d64dba47f2b5e8c1b0e.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:21:19 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [123e2b38e] [bc1f46aa9] [8d862b815]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/4f5c7d6b1efff3b0bd994919b6b31144</guid>
+	<link>https://wtfnzb.example/getnzb/4f5c7d6b1efff3b0bd994919b6b31144.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/4f5c7d6b1efff3b0bd994919b6b31144#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 4f5c7d6b1efff3b0bd994919b6b31144</li><li>Name: <a href="https://wtfnzb.example/details/4f5c7d6b1efff3b0bd994919b6b31144">Abyss.School.Update.v1.5.6-TENOKE [123e2b38e] [bc1f46aa9] [8d862b815]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:18:52 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/4f5c7d6b1efff3b0bd994919b6b31144.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:18:52 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Abyss.School.Update.v1.5.6-TENOKE [2e3cce4d7] [c941e7401] [ab89ada02]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/330f20d957d94a509bf92503b50cb8d3</guid>
+	<link>https://wtfnzb.example/getnzb/330f20d957d94a509bf92503b50cb8d3.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/330f20d957d94a509bf92503b50cb8d3#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 330f20d957d94a509bf92503b50cb8d3</li><li>Name: <a href="https://wtfnzb.example/details/330f20d957d94a509bf92503b50cb8d3">Abyss.School.Update.v1.5.6-TENOKE [2e3cce4d7] [c941e7401] [ab89ada02]</a></li><li>Size: 284.02 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:18:58 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/330f20d957d94a509bf92503b50cb8d3.nzb&amp;i=REDACTED&amp;r=REDACTED" length="297814720" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="297814720" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:18:58 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Sun.Haven.Update.v1.5.5-TENOKE [f08f1fce5] [5ac3ece44] [956a3c5d7]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/4bc23f8af4abc498c41fe32c8ae22f75</guid>
+	<link>https://wtfnzb.example/getnzb/4bc23f8af4abc498c41fe32c8ae22f75.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/4bc23f8af4abc498c41fe32c8ae22f75#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 4bc23f8af4abc498c41fe32c8ae22f75</li><li>Name: <a href="https://wtfnzb.example/details/4bc23f8af4abc498c41fe32c8ae22f75">Sun.Haven.Update.v1.5.5-TENOKE [f08f1fce5] [5ac3ece44] [956a3c5d7]</a></li><li>Size: 281.06 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:18:45 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/4bc23f8af4abc498c41fe32c8ae22f75.nzb&amp;i=REDACTED&amp;r=REDACTED" length="294716855" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="294716855" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:18:45 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Sun.Haven.Update.v1.5.5-TENOKE [4489ff055] [982d9597f] [a04c7c917]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/c45b479255b35ca7507258f2d9c9d394</guid>
+	<link>https://wtfnzb.example/getnzb/c45b479255b35ca7507258f2d9c9d394.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/c45b479255b35ca7507258f2d9c9d394#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: c45b479255b35ca7507258f2d9c9d394</li><li>Name: <a href="https://wtfnzb.example/details/c45b479255b35ca7507258f2d9c9d394">Sun.Haven.Update.v1.5.5-TENOKE [4489ff055] [982d9597f] [a04c7c917]</a></li><li>Size: 281.06 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 22:15:13 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/c45b479255b35ca7507258f2d9c9d394.nzb&amp;i=REDACTED&amp;r=REDACTED" length="294716855" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="294716855" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 22:15:13 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Bartels.Media.PhraseExpress.Enterprise.v7.0.40.MacOS.UB.Bilingual.Incl.Keymaker-CORE [ff70608a9]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/8bf1be9424814f2c1f5e59efdf2d2262</guid>
+	<link>https://wtfnzb.example/getnzb/8bf1be9424814f2c1f5e59efdf2d2262.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/8bf1be9424814f2c1f5e59efdf2d2262#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 8bf1be9424814f2c1f5e59efdf2d2262</li><li>Name: <a href="https://wtfnzb.example/details/8bf1be9424814f2c1f5e59efdf2d2262">Bartels.Media.PhraseExpress.Enterprise.v7.0.40.MacOS.UB.Bilingual.Incl.Keymaker-CORE [ff70608a9]</a></li><li>Size: 13.47 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4010"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 21:35:37 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/8bf1be9424814f2c1f5e59efdf2d2262.nzb&amp;i=REDACTED&amp;r=REDACTED" length="14119777" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="14119777" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 21:35:37 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Bartels.Media.PhraseExpress.Enterprise.v7.0.40.MacOS.UB.Bilingual.Incl.Keymaker-CORE [14cbd4baf]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/c77e1a1d8cd51cb3d2d78c6b3fc29869</guid>
+	<link>https://wtfnzb.example/getnzb/c77e1a1d8cd51cb3d2d78c6b3fc29869.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/c77e1a1d8cd51cb3d2d78c6b3fc29869#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: c77e1a1d8cd51cb3d2d78c6b3fc29869</li><li>Name: <a href="https://wtfnzb.example/details/c77e1a1d8cd51cb3d2d78c6b3fc29869">Bartels.Media.PhraseExpress.Enterprise.v7.0.40.MacOS.UB.Bilingual.Incl.Keymaker-CORE [14cbd4baf]</a></li><li>Size: 13.47 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4010"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 21:23:47 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/c77e1a1d8cd51cb3d2d78c6b3fc29869.nzb&amp;i=REDACTED&amp;r=REDACTED" length="14119777" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="14119777" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 21:23:47 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Adobe.Acrobat.Pro.DC.2026.002.21931.[x64].Multilingual [40fbe759b]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/a36c7e05ef3d04c0652c6866b6f5f5f1</guid>
+	<link>https://wtfnzb.example/getnzb/a36c7e05ef3d04c0652c6866b6f5f5f1.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/a36c7e05ef3d04c0652c6866b6f5f5f1#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: a36c7e05ef3d04c0652c6866b6f5f5f1</li><li>Name: <a href="https://wtfnzb.example/details/a36c7e05ef3d04c0652c6866b6f5f5f1">Adobe.Acrobat.Pro.DC.2026.002.21931.[x64].Multilingual [40fbe759b]</a></li><li>Size: 1.72 GB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4010"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 21:14:49 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/a36c7e05ef3d04c0652c6866b6f5f5f1.nzb&amp;i=REDACTED&amp;r=REDACTED" length="1847632984" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="1847632984" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 21:14:49 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Mini.Airways.Update.v0.9.5-TENOKE [78da43aee] [e8ebee8e7] [9bc41f4ff]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/d0a5063c8bd78d54f7611a2c8c99705e</guid>
+	<link>https://wtfnzb.example/getnzb/d0a5063c8bd78d54f7611a2c8c99705e.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/d0a5063c8bd78d54f7611a2c8c99705e#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: d0a5063c8bd78d54f7611a2c8c99705e</li><li>Name: <a href="https://wtfnzb.example/details/d0a5063c8bd78d54f7611a2c8c99705e">Mini.Airways.Update.v0.9.5-TENOKE [78da43aee] [e8ebee8e7] [9bc41f4ff]</a></li><li>Size: 266.19 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 20:54:24 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/d0a5063c8bd78d54f7611a2c8c99705e.nzb&amp;i=REDACTED&amp;r=REDACTED" length="279117284" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="279117284" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 20:54:24 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Bartels.Media.PhraseExpress.Enterprise.v7.0.40.MacOS.UB.Bilingual.Incl.Keymaker-CORE [3171106ff]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/c2163235d85811d64abe8ebb23493127</guid>
+	<link>https://wtfnzb.example/getnzb/c2163235d85811d64abe8ebb23493127.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/c2163235d85811d64abe8ebb23493127#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: c2163235d85811d64abe8ebb23493127</li><li>Name: <a href="https://wtfnzb.example/details/c2163235d85811d64abe8ebb23493127">Bartels.Media.PhraseExpress.Enterprise.v7.0.40.MacOS.UB.Bilingual.Incl.Keymaker-CORE [3171106ff]</a></li><li>Size: 13.47 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4010"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 20:49:45 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/c2163235d85811d64abe8ebb23493127.nzb&amp;i=REDACTED&amp;r=REDACTED" length="14119777" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="14119777" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 20:49:45 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Sun.Haven.Update.v1.5.5-TENOKE [be00e11f8] [82941c083]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/55378dd1ad23219dcdf16992d5b73d15</guid>
+	<link>https://wtfnzb.example/getnzb/55378dd1ad23219dcdf16992d5b73d15.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/55378dd1ad23219dcdf16992d5b73d15#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 55378dd1ad23219dcdf16992d5b73d15</li><li>Name: <a href="https://wtfnzb.example/details/55378dd1ad23219dcdf16992d5b73d15">Sun.Haven.Update.v1.5.5-TENOKE [be00e11f8] [82941c083]</a></li><li>Size: 638.34 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 20:50:07 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/55378dd1ad23219dcdf16992d5b73d15.nzb&amp;i=REDACTED&amp;r=REDACTED" length="669345594" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="669345594" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 20:50:07 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Gravitational.Inc.Teleport.Enterprise.v16.3.0.Linux.arm32.Incl.Keyfilemaker-BTCR [1b590bdca]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/3e34f9e0f291feac98f1de778d78824d</guid>
+	<link>https://wtfnzb.example/getnzb/3e34f9e0f291feac98f1de778d78824d.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/3e34f9e0f291feac98f1de778d78824d#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 3e34f9e0f291feac98f1de778d78824d</li><li>Name: <a href="https://wtfnzb.example/details/3e34f9e0f291feac98f1de778d78824d">Gravitational.Inc.Teleport.Enterprise.v16.3.0.Linux.arm32.Incl.Keyfilemaker-BTCR [1b590bdca]</a></li><li>Size: 467.01 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4010"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 20:18:22 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/3e34f9e0f291feac98f1de778d78824d.nzb&amp;i=REDACTED&amp;r=REDACTED" length="489698030" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="489698030" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 20:18:22 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Doll.Impostor.Update.v20240911-TENOKE [d7cc9f0b7] [8c029c83f] [ff6c01363]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/e67422b7103b6c0cbd9428ea04bf0910</guid>
+	<link>https://wtfnzb.example/getnzb/e67422b7103b6c0cbd9428ea04bf0910.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/e67422b7103b6c0cbd9428ea04bf0910#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: e67422b7103b6c0cbd9428ea04bf0910</li><li>Name: <a href="https://wtfnzb.example/details/e67422b7103b6c0cbd9428ea04bf0910">Doll.Impostor.Update.v20240911-TENOKE [d7cc9f0b7] [8c029c83f] [ff6c01363]</a></li><li>Size: 253.29 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 19:40:36 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/e67422b7103b6c0cbd9428ea04bf0910.nzb&amp;i=REDACTED&amp;r=REDACTED" length="265596964" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="265596964" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 19:40:36 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Doll.Impostor.Update.v20240911-TENOKE [970a93f2d] [c0ee9b5e9]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/73cfc09b53b673cc31c7fa76cbcbf43e</guid>
+	<link>https://wtfnzb.example/getnzb/73cfc09b53b673cc31c7fa76cbcbf43e.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/73cfc09b53b673cc31c7fa76cbcbf43e#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 73cfc09b53b673cc31c7fa76cbcbf43e</li><li>Name: <a href="https://wtfnzb.example/details/73cfc09b53b673cc31c7fa76cbcbf43e">Doll.Impostor.Update.v20240911-TENOKE [970a93f2d] [c0ee9b5e9]</a></li><li>Size: 253.29 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 19:40:23 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/73cfc09b53b673cc31c7fa76cbcbf43e.nzb&amp;i=REDACTED&amp;r=REDACTED" length="265596964" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="265596964" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 19:40:23 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Doll.Impostor.Update.v20240911-TENOKE [d0b7c28e3] [3da6aef2f] [aabc2720d]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/3ac6a55e75e1c1a06ca7ab286a254b5c</guid>
+	<link>https://wtfnzb.example/getnzb/3ac6a55e75e1c1a06ca7ab286a254b5c.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/3ac6a55e75e1c1a06ca7ab286a254b5c#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 3ac6a55e75e1c1a06ca7ab286a254b5c</li><li>Name: <a href="https://wtfnzb.example/details/3ac6a55e75e1c1a06ca7ab286a254b5c">Doll.Impostor.Update.v20240911-TENOKE [d0b7c28e3] [3da6aef2f] [aabc2720d]</a></li><li>Size: 253.29 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 19:40:47 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/3ac6a55e75e1c1a06ca7ab286a254b5c.nzb&amp;i=REDACTED&amp;r=REDACTED" length="265596964" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="265596964" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 19:40:47 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Doll.Impostor.Update.v20240911-TENOKE [dcd5539e0] [54825efb0] [93a9406a9]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/5d49e5128abff16f3761c238683cf050</guid>
+	<link>https://wtfnzb.example/getnzb/5d49e5128abff16f3761c238683cf050.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/5d49e5128abff16f3761c238683cf050#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 5d49e5128abff16f3761c238683cf050</li><li>Name: <a href="https://wtfnzb.example/details/5d49e5128abff16f3761c238683cf050">Doll.Impostor.Update.v20240911-TENOKE [dcd5539e0] [54825efb0] [93a9406a9]</a></li><li>Size: 253.29 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 19:41:08 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/5d49e5128abff16f3761c238683cf050.nzb&amp;i=REDACTED&amp;r=REDACTED" length="265596964" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="265596964" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 19:41:08 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Doll.Impostor.Update.v20240911-TENOKE [d79e12178] [725fe77b1] [35561c81b]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/bbb74ee927d7aa72c66ad80f29a35897</guid>
+	<link>https://wtfnzb.example/getnzb/bbb74ee927d7aa72c66ad80f29a35897.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/bbb74ee927d7aa72c66ad80f29a35897#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: bbb74ee927d7aa72c66ad80f29a35897</li><li>Name: <a href="https://wtfnzb.example/details/bbb74ee927d7aa72c66ad80f29a35897">Doll.Impostor.Update.v20240911-TENOKE [d79e12178] [725fe77b1] [35561c81b]</a></li><li>Size: 253.29 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 19:40:57 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/bbb74ee927d7aa72c66ad80f29a35897.nzb&amp;i=REDACTED&amp;r=REDACTED" length="265596964" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="265596964" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 19:40:57 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Doll.Impostor.Update.v20240911-TENOKE [d7cc9f0b7] [8c029c83f] [ff6c01363]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/e48bfd3d536e85f2b0eab291d3ed094a</guid>
+	<link>https://wtfnzb.example/getnzb/e48bfd3d536e85f2b0eab291d3ed094a.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/e48bfd3d536e85f2b0eab291d3ed094a#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: e48bfd3d536e85f2b0eab291d3ed094a</li><li>Name: <a href="https://wtfnzb.example/details/e48bfd3d536e85f2b0eab291d3ed094a">Doll.Impostor.Update.v20240911-TENOKE [d7cc9f0b7] [8c029c83f] [ff6c01363]</a></li><li>Size: 0.00 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 19:40:36 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/e48bfd3d536e85f2b0eab291d3ed094a.nzb&amp;i=REDACTED&amp;r=REDACTED" length="0" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="0" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 19:40:36 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Doll.Impostor.Update.v20240911-TENOKE [241cbc849] [3da6b4592]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/d7d402841c4042e0e17719e8e5a1c3a3</guid>
+	<link>https://wtfnzb.example/getnzb/d7d402841c4042e0e17719e8e5a1c3a3.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/d7d402841c4042e0e17719e8e5a1c3a3#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: d7d402841c4042e0e17719e8e5a1c3a3</li><li>Name: <a href="https://wtfnzb.example/details/d7d402841c4042e0e17719e8e5a1c3a3">Doll.Impostor.Update.v20240911-TENOKE [241cbc849] [3da6b4592]</a></li><li>Size: 253.29 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 19:40:06 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/d7d402841c4042e0e17719e8e5a1c3a3.nzb&amp;i=REDACTED&amp;r=REDACTED" length="265596964" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="265596964" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 19:40:06 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Doll.Impostor.Update.v20240911-TENOKE [8f07ffa41] [eeacff45d]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/28381d6866ea935829610c7f69431564</guid>
+	<link>https://wtfnzb.example/getnzb/28381d6866ea935829610c7f69431564.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/28381d6866ea935829610c7f69431564#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 28381d6866ea935829610c7f69431564</li><li>Name: <a href="https://wtfnzb.example/details/28381d6866ea935829610c7f69431564">Doll.Impostor.Update.v20240911-TENOKE [8f07ffa41] [eeacff45d]</a></li><li>Size: 253.29 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 19:40:16 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/28381d6866ea935829610c7f69431564.nzb&amp;i=REDACTED&amp;r=REDACTED" length="265596964" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="265596964" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 19:40:16 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Doll.Impostor.Update.v20240911-TENOKE [59af3b205] [970a93f2d] [c97b4a58d]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/75f25276b077963eb27f59d01ec575d6</guid>
+	<link>https://wtfnzb.example/getnzb/75f25276b077963eb27f59d01ec575d6.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/75f25276b077963eb27f59d01ec575d6#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 75f25276b077963eb27f59d01ec575d6</li><li>Name: <a href="https://wtfnzb.example/details/75f25276b077963eb27f59d01ec575d6">Doll.Impostor.Update.v20240911-TENOKE [59af3b205] [970a93f2d] [c97b4a58d]</a></li><li>Size: 253.29 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 19:38:37 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/75f25276b077963eb27f59d01ec575d6.nzb&amp;i=REDACTED&amp;r=REDACTED" length="265596964" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="265596964" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 19:38:37 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Doll.Impostor.Update.v20240911-TENOKE [3ea50c06e] [0d4dc5fa9] [f6ba75288]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/618641112f9568e0c26ea1e5f05a68e4</guid>
+	<link>https://wtfnzb.example/getnzb/618641112f9568e0c26ea1e5f05a68e4.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/618641112f9568e0c26ea1e5f05a68e4#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 618641112f9568e0c26ea1e5f05a68e4</li><li>Name: <a href="https://wtfnzb.example/details/618641112f9568e0c26ea1e5f05a68e4">Doll.Impostor.Update.v20240911-TENOKE [3ea50c06e] [0d4dc5fa9] [f6ba75288]</a></li><li>Size: 252.13 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 19:38:01 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/618641112f9568e0c26ea1e5f05a68e4.nzb&amp;i=REDACTED&amp;r=REDACTED" length="264382436" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="264382436" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 19:38:01 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Doll.Impostor.Update.v20240911-TENOKE [eb741c632]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/4cc3901e574aa594efb2cb4ef74f65b0</guid>
+	<link>https://wtfnzb.example/getnzb/4cc3901e574aa594efb2cb4ef74f65b0.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/4cc3901e574aa594efb2cb4ef74f65b0#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 4cc3901e574aa594efb2cb4ef74f65b0</li><li>Name: <a href="https://wtfnzb.example/details/4cc3901e574aa594efb2cb4ef74f65b0">Doll.Impostor.Update.v20240911-TENOKE [eb741c632]</a></li><li>Size: 253.29 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 19:38:23 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/4cc3901e574aa594efb2cb4ef74f65b0.nzb&amp;i=REDACTED&amp;r=REDACTED" length="265596964" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="265596964" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 19:38:23 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Doll.Impostor.Update.v20240911-TENOKE [719dd9a29] [c82a68eca] [b988e0a82]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/0136c8959975e9acbbd27c5445dfa71f</guid>
+	<link>https://wtfnzb.example/getnzb/0136c8959975e9acbbd27c5445dfa71f.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/0136c8959975e9acbbd27c5445dfa71f#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 0136c8959975e9acbbd27c5445dfa71f</li><li>Name: <a href="https://wtfnzb.example/details/0136c8959975e9acbbd27c5445dfa71f">Doll.Impostor.Update.v20240911-TENOKE [719dd9a29] [c82a68eca] [b988e0a82]</a></li><li>Size: 253.29 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 19:38:10 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/0136c8959975e9acbbd27c5445dfa71f.nzb&amp;i=REDACTED&amp;r=REDACTED" length="265596964" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="265596964" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 19:38:10 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Gravitational.Inc.Teleport.Enterprise.v16.3.0.Fedora.Linux.arm64.Incl.Keyfilemaker-BTCR [e1eb7b6c7] [78f337dd8]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/03f203b9afcc2af1e10f745de8477708</guid>
+	<link>https://wtfnzb.example/getnzb/03f203b9afcc2af1e10f745de8477708.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/03f203b9afcc2af1e10f745de8477708#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 03f203b9afcc2af1e10f745de8477708</li><li>Name: <a href="https://wtfnzb.example/details/03f203b9afcc2af1e10f745de8477708">Gravitational.Inc.Teleport.Enterprise.v16.3.0.Fedora.Linux.arm64.Incl.Keyfilemaker-BTCR [e1eb7b6c7] [78f337dd8]</a></li><li>Size: 475.88 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4010"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 19:03:12 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/03f203b9afcc2af1e10f745de8477708.nzb&amp;i=REDACTED&amp;r=REDACTED" length="498991652" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="498991652" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 19:03:12 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Topaz Video 1.7.1  x64 </title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/5c9bd7248981355453a8b37313a25dea</guid>
+	<link>https://wtfnzb.example/getnzb/5c9bd7248981355453a8b37313a25dea.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/5c9bd7248981355453a8b37313a25dea#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 5c9bd7248981355453a8b37313a25dea</li><li>Name: <a href="https://wtfnzb.example/details/5c9bd7248981355453a8b37313a25dea">Topaz Video 1.7.1  x64 </a></li><li>Size: 341.96 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4010"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 17:39:13 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/5c9bd7248981355453a8b37313a25dea.nzb&amp;i=REDACTED&amp;r=REDACTED" length="358569357" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="358569357" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 17:39:13 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Risk.of.Rain.2.Seekers.of.the.Storm.Update.v1.3.4-TENOKE [1edb8f6cc]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/5602a8af5b0fb94a7c993c97aae4cbf1</guid>
+	<link>https://wtfnzb.example/getnzb/5602a8af5b0fb94a7c993c97aae4cbf1.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/5602a8af5b0fb94a7c993c97aae4cbf1#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 5602a8af5b0fb94a7c993c97aae4cbf1</li><li>Name: <a href="https://wtfnzb.example/details/5602a8af5b0fb94a7c993c97aae4cbf1">Risk.of.Rain.2.Seekers.of.the.Storm.Update.v1.3.4-TENOKE [1edb8f6cc]</a></li><li>Size: 318.36 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 17:56:06 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/5602a8af5b0fb94a7c993c97aae4cbf1.nzb&amp;i=REDACTED&amp;r=REDACTED" length="333824582" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="333824582" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 17:56:06 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Adobe.Acrobat.Pro.DC.2026.002.21931.[x64].Multilingual [2c6abf5eb]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/346717b5d359fbd5caa32ce494ea5d95</guid>
+	<link>https://wtfnzb.example/getnzb/346717b5d359fbd5caa32ce494ea5d95.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/346717b5d359fbd5caa32ce494ea5d95#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 346717b5d359fbd5caa32ce494ea5d95</li><li>Name: <a href="https://wtfnzb.example/details/346717b5d359fbd5caa32ce494ea5d95">Adobe.Acrobat.Pro.DC.2026.002.21931.[x64].Multilingual [2c6abf5eb]</a></li><li>Size: 1.72 GB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4010"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 17:32:52 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/346717b5d359fbd5caa32ce494ea5d95.nzb&amp;i=REDACTED&amp;r=REDACTED" length="1847632984" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="1847632984" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 17:32:52 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Aquarist.Japanese.Garden.Update.v20240916-TENOKE [67f63a147] [6f3e95297] [5ce464b1d]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/e14db41359302b2ae4c676935b9f4677</guid>
+	<link>https://wtfnzb.example/getnzb/e14db41359302b2ae4c676935b9f4677.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/e14db41359302b2ae4c676935b9f4677#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: e14db41359302b2ae4c676935b9f4677</li><li>Name: <a href="https://wtfnzb.example/details/e14db41359302b2ae4c676935b9f4677">Aquarist.Japanese.Garden.Update.v20240916-TENOKE [67f63a147] [6f3e95297] [5ce464b1d]</a></li><li>Size: 314.36 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 17:15:33 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/e14db41359302b2ae4c676935b9f4677.nzb&amp;i=REDACTED&amp;r=REDACTED" length="329627487" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="329627487" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 17:15:33 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Tactical.Breach.Wizards.Update.v20240912-TENOKE [5e88ee194] [a249062d8] [c4d015aa6]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/3f4c83972e5c71622ec6e4bce349c223</guid>
+	<link>https://wtfnzb.example/getnzb/3f4c83972e5c71622ec6e4bce349c223.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/3f4c83972e5c71622ec6e4bce349c223#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 3f4c83972e5c71622ec6e4bce349c223</li><li>Name: <a href="https://wtfnzb.example/details/3f4c83972e5c71622ec6e4bce349c223">Tactical.Breach.Wizards.Update.v20240912-TENOKE [5e88ee194] [a249062d8] [c4d015aa6]</a></li><li>Size: 313.79 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 17:15:22 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/3f4c83972e5c71622ec6e4bce349c223.nzb&amp;i=REDACTED&amp;r=REDACTED" length="329032345" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="329032345" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 17:15:22 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>Touhou.Hero.of.Ice.Fairy.Rose.Idol.Update.v20250813-TENOKE [d5923ced1] [e11723e1f]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/5b6d1544a6cb2a394e79d5eaf91d26c5</guid>
+	<link>https://wtfnzb.example/getnzb/5b6d1544a6cb2a394e79d5eaf91d26c5.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/5b6d1544a6cb2a394e79d5eaf91d26c5#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 5b6d1544a6cb2a394e79d5eaf91d26c5</li><li>Name: <a href="https://wtfnzb.example/details/5b6d1544a6cb2a394e79d5eaf91d26c5">Touhou.Hero.of.Ice.Fairy.Rose.Idol.Update.v20250813-TENOKE [d5923ced1] [e11723e1f]</a></li><li>Size: 152.16 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 16:51:21 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/5b6d1544a6cb2a394e79d5eaf91d26c5.nzb&amp;i=REDACTED&amp;r=REDACTED" length="159552728" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="159552728" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 16:51:21 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+<item>
+	<title>The.Crush.House.Update.v1.4.9752-TENOKE [3c309b370] [710f5e59d] [85dc2fbf0]</title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/75c52052048f6e0055f87a80795d696f</guid>
+	<link>https://wtfnzb.example/getnzb/75c52052048f6e0055f87a80795d696f.nzb&amp;i=REDACTED&amp;r=REDACTED</link>
+	<comments>https://wtfnzb.example/details/75c52052048f6e0055f87a80795d696f#comments</comments>
+	<pubDate></pubDate>
+	<category></category>
+	<description><![CDATA[<div><ul><li>ID: 75c52052048f6e0055f87a80795d696f</li><li>Name: <a href="https://wtfnzb.example/details/75c52052048f6e0055f87a80795d696f">The.Crush.House.Update.v1.4.9752-TENOKE [3c309b370] [710f5e59d] [85dc2fbf0]</a></li><li>Size: 189.32 MB </li><li>Attributes: Category - <a href="https://wtfnzb.example/browse?t=4050"></a></li><li>Groups: <a href="https://wtfnzb.example/browse?g="></a></li><li>Poster: </li><li>PostDate: Sat, 19 Sep 2026 16:24:26 +0200</li><li>Password: None</li></ul></div><div style="clear:both;">]]>
+	</description>
+	<enclosure url="https://wtfnzb.example/getnzb/75c52052048f6e0055f87a80795d696f.nzb&amp;i=REDACTED&amp;r=REDACTED" length="198520623" type="application/x-nzb" />
+
+	<newznab:attr name="category" value="" />
+	<newznab:attr name="size" value="198520623" />
+	<newznab:attr name="files" value="" />
+	<newznab:attr name="poster" value="" />
+	<newznab:attr name="grabs" value="" />
+	<newznab:attr name="comments" value="" />
+	<newznab:attr name="password" value="" />
+	<newznab:attr name="usenetdate" value="Sat, 19 Sep 2026 16:24:26 +0200" />
+	<newznab:attr name="group" value="" />
+</item>
+
+</channel>
+</rss>

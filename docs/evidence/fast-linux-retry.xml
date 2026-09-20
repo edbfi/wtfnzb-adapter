@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:newznab="http://www.newznab.com/DTD/2010/feeds/attributes/">
+<channel>
+<atom:link href="https://wtfnzb.example/api" rel="self" type="application/rss+xml" />
+<title>WtF[nZb]</title>
+<description>WtF[nZb] APi Feed | You are searching in last 100k releases, to search older releases go there: https://wtfnzb.example/_search_</description>
+<link>https://wtfnzb.example/</link>
+<language>en-gb</language>
+<webMaster>wtfnzb@tuta.io (WtF[nZb])</webMaster>
+<category></category>
+<image>
+	<title>WtF[nZb]</title>
+	<link>https://wtfnzb.example/</link>
+	<description>Visit WtF[nZb] - Fastest nzb source!</description>
+</image>
+<newznab:response offset="0" total="22" />
+<item>
+	<title><![CDATA[Crossworld.CrossFTP.Enterprise.v2.00.1.Linux.Debian.Incl.KeyMaker-DVT [01b2bbef1]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/13f501cbafa65d19c17c9214dd1e18ad</guid>
+	<link>https://wtfnzb.example/getnzb/13f501cbafa65d19c17c9214dd1e18ad.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/13f501cbafa65d19c17c9214dd1e18ad#comments</comments>
+        <pubDate>2026-08-06 22:48:26</pubDate>
+	<description><![CDATA[Crossworld.CrossFTP.Enterprise.v2.00.1.Linux.Debian.Incl.KeyMaker-DVT [01b2bbef1]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/13f501cbafa65d19c17c9214dd1e18ad.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="13f501cbafa65d19c17c9214dd1e18ad" />
+</item>
+<item>
+	<title><![CDATA[Illustrate.Asset.UPnP.Premium.v2026.07.29.Linux.x64-DVT [c3ee9719a]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/94d297046fefeb2a18bfaba7a6655390</guid>
+	<link>https://wtfnzb.example/getnzb/94d297046fefeb2a18bfaba7a6655390.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/94d297046fefeb2a18bfaba7a6655390#comments</comments>
+        <pubDate>2026-08-06 17:38:57</pubDate>
+	<description><![CDATA[Illustrate.Asset.UPnP.Premium.v2026.07.29.Linux.x64-DVT [c3ee9719a]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/94d297046fefeb2a18bfaba7a6655390.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="94d297046fefeb2a18bfaba7a6655390" />
+</item>
+<item>
+	<title><![CDATA[Illustrate.Asset.UPnP.Premium.v2026.07.29.Linux.x86-DVT [25b1f72e8]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/4245bb912189b2a7dc3c7141c0a82f9e</guid>
+	<link>https://wtfnzb.example/getnzb/4245bb912189b2a7dc3c7141c0a82f9e.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/4245bb912189b2a7dc3c7141c0a82f9e#comments</comments>
+        <pubDate>2026-08-06 17:37:53</pubDate>
+	<description><![CDATA[Illustrate.Asset.UPnP.Premium.v2026.07.29.Linux.x86-DVT [25b1f72e8]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/4245bb912189b2a7dc3c7141c0a82f9e.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="4245bb912189b2a7dc3c7141c0a82f9e" />
+</item>
+<item>
+	<title><![CDATA[Jamie and Marley Die A Lot Linux-bADkARMA [62c342bec]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/526ce4aaeff76fa2b744b914d24238a4</guid>
+	<link>https://wtfnzb.example/getnzb/526ce4aaeff76fa2b744b914d24238a4.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/526ce4aaeff76fa2b744b914d24238a4#comments</comments>
+        <pubDate>2026-08-04 08:08:51</pubDate>
+	<description><![CDATA[Jamie and Marley Die A Lot Linux-bADkARMA [62c342bec]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/526ce4aaeff76fa2b744b914d24238a4.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="526ce4aaeff76fa2b744b914d24238a4" />
+</item>
+<item>
+	<title><![CDATA[Reclaim.Time.FocusMe.v7.8.5.0.Linux.Generic.x64.Incl.Keymaker-CORE [beaae80ad]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/4b511f6a4398d41a12bf2c7eb8b44816</guid>
+	<link>https://wtfnzb.example/getnzb/4b511f6a4398d41a12bf2c7eb8b44816.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/4b511f6a4398d41a12bf2c7eb8b44816#comments</comments>
+        <pubDate>2026-08-04 08:07:40</pubDate>
+	<description><![CDATA[Reclaim.Time.FocusMe.v7.8.5.0.Linux.Generic.x64.Incl.Keymaker-CORE [beaae80ad]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/4b511f6a4398d41a12bf2c7eb8b44816.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="4b511f6a4398d41a12bf2c7eb8b44816" />
+</item>
+<item>
+	<title><![CDATA[Linux-Code.fuer.Einsteiger.August.2025.GERMAN.HYBRID.MAGAZINE.eBook-LORENZ [98c3e70b4]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/91a95036046a775dcafd0ec60f57d5de</guid>
+	<link>https://wtfnzb.example/getnzb/91a95036046a775dcafd0ec60f57d5de.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/91a95036046a775dcafd0ec60f57d5de#comments</comments>
+        <pubDate>2026-08-03 13:14:52</pubDate>
+	<description><![CDATA[Linux-Code.fuer.Einsteiger.August.2025.GERMAN.HYBRID.MAGAZINE.eBook-LORENZ [98c3e70b4]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/91a95036046a775dcafd0ec60f57d5de.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="91a95036046a775dcafd0ec60f57d5de" />
+</item>
+<item>
+	<title><![CDATA[MiniMeters.v0.8.21.Beta.Linux.x64-BTCR [30779bd24]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/8665a26cd116985097204fe804a55d09</guid>
+	<link>https://wtfnzb.example/getnzb/8665a26cd116985097204fe804a55d09.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/8665a26cd116985097204fe804a55d09#comments</comments>
+        <pubDate>2026-08-03 10:19:06</pubDate>
+	<description><![CDATA[MiniMeters.v0.8.21.Beta.Linux.x64-BTCR [30779bd24]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/8665a26cd116985097204fe804a55d09.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="8665a26cd116985097204fe804a55d09" />
+</item>
+<item>
+	<title><![CDATA[Jamie and Marley Die A Lot Linux-bADkARMA [1759d75af]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/46835221814f37aa9a0652b6f82e0707</guid>
+	<link>https://wtfnzb.example/getnzb/46835221814f37aa9a0652b6f82e0707.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/46835221814f37aa9a0652b6f82e0707#comments</comments>
+        <pubDate>2026-08-03 05:20:22</pubDate>
+	<description><![CDATA[Jamie and Marley Die A Lot Linux-bADkARMA [1759d75af]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/46835221814f37aa9a0652b6f82e0707.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="46835221814f37aa9a0652b6f82e0707" />
+</item>
+<item>
+	<title><![CDATA[Linux-Magazin.No.09.2025.GERMAN.HYBRID.MAGAZINE.eBook-LORENZ [16d79f285]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/4b0a72100c300b77301336d8c1e5c742</guid>
+	<link>https://wtfnzb.example/getnzb/4b0a72100c300b77301336d8c1e5c742.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/4b0a72100c300b77301336d8c1e5c742#comments</comments>
+        <pubDate>2026-08-02 21:55:03</pubDate>
+	<description><![CDATA[Linux-Magazin.No.09.2025.GERMAN.HYBRID.MAGAZINE.eBook-LORENZ [16d79f285]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/4b0a72100c300b77301336d8c1e5c742.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="4b0a72100c300b77301336d8c1e5c742" />
+</item>
+<item>
+	<title><![CDATA[Linux-Code.fuer.Einsteiger.August.2025.GERMAN.HYBRID.MAGAZINE.eBook-LORENZ [d31f09f3b]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/6d84561f40e1847c16d3a55fd6d17a36</guid>
+	<link>https://wtfnzb.example/getnzb/6d84561f40e1847c16d3a55fd6d17a36.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/6d84561f40e1847c16d3a55fd6d17a36#comments</comments>
+        <pubDate>2026-08-02 21:50:11</pubDate>
+	<description><![CDATA[Linux-Code.fuer.Einsteiger.August.2025.GERMAN.HYBRID.MAGAZINE.eBook-LORENZ [d31f09f3b]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/6d84561f40e1847c16d3a55fd6d17a36.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="6d84561f40e1847c16d3a55fd6d17a36" />
+</item>
+<item>
+	<title><![CDATA[Linux-Magazin.No.09.2025.GERMAN.HYBRID.MAGAZINE.eBook-LORENZ [bc1413adc] [946f3c35a]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/72b40e401b5de6e885ca6a51040046fc</guid>
+	<link>https://wtfnzb.example/getnzb/72b40e401b5de6e885ca6a51040046fc.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/72b40e401b5de6e885ca6a51040046fc#comments</comments>
+        <pubDate>2026-08-02 17:01:44</pubDate>
+	<description><![CDATA[Linux-Magazin.No.09.2025.GERMAN.HYBRID.MAGAZINE.eBook-LORENZ [bc1413adc] [946f3c35a]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/72b40e401b5de6e885ca6a51040046fc.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="72b40e401b5de6e885ca6a51040046fc" />
+</item>
+<item>
+	<title><![CDATA[Linux-Code.fuer.Einsteiger.August.2025.GERMAN.HYBRID.MAGAZINE.eBook-LORENZ [9bf3ce371]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/028ecf46fd4a78f9935f06a4dc4b3884</guid>
+	<link>https://wtfnzb.example/getnzb/028ecf46fd4a78f9935f06a4dc4b3884.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/028ecf46fd4a78f9935f06a4dc4b3884#comments</comments>
+        <pubDate>2026-08-02 16:36:05</pubDate>
+	<description><![CDATA[Linux-Code.fuer.Einsteiger.August.2025.GERMAN.HYBRID.MAGAZINE.eBook-LORENZ [9bf3ce371]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/028ecf46fd4a78f9935f06a4dc4b3884.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="028ecf46fd4a78f9935f06a4dc4b3884" />
+</item>
+<item>
+	<title><![CDATA[Klaus.Gotthardt.JLohn.v3.4.fuer.2026.DC.20260721.German.Linux.Incl.KeyMaker-DVT [eaeaa243d]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/9c6368d66b9cbe3904dd3b084ca0ceaa</guid>
+	<link>https://wtfnzb.example/getnzb/9c6368d66b9cbe3904dd3b084ca0ceaa.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/9c6368d66b9cbe3904dd3b084ca0ceaa#comments</comments>
+        <pubDate>2026-08-02 13:32:34</pubDate>
+	<description><![CDATA[Klaus.Gotthardt.JLohn.v3.4.fuer.2026.DC.20260721.German.Linux.Incl.KeyMaker-DVT [eaeaa243d]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/9c6368d66b9cbe3904dd3b084ca0ceaa.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="9c6368d66b9cbe3904dd3b084ca0ceaa" />
+</item>
+<item>
+	<title><![CDATA[Klaus.Gotthardt.JLohn.v3.4.fuer.2026.DC.20260721.German.Linux.Incl.KeyMaker-DVT [9b4c5c4d7]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/31cf58cc52a7b9b37694a61847aa67b3</guid>
+	<link>https://wtfnzb.example/getnzb/31cf58cc52a7b9b37694a61847aa67b3.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/31cf58cc52a7b9b37694a61847aa67b3#comments</comments>
+        <pubDate>2026-08-02 12:38:39</pubDate>
+	<description><![CDATA[Klaus.Gotthardt.JLohn.v3.4.fuer.2026.DC.20260721.German.Linux.Incl.KeyMaker-DVT [9b4c5c4d7]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/31cf58cc52a7b9b37694a61847aa67b3.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="31cf58cc52a7b9b37694a61847aa67b3" />
+</item>
+<item>
+	<title><![CDATA[Linux-Magazin.No.09.2025.GERMAN.HYBRID.MAGAZINE.eBook-LORENZ [485bdb3a4] [bdef8fb60]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/58839ff8c824fbdeadafba599066be50</guid>
+	<link>https://wtfnzb.example/getnzb/58839ff8c824fbdeadafba599066be50.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/58839ff8c824fbdeadafba599066be50#comments</comments>
+        <pubDate>2026-08-02 11:13:07</pubDate>
+	<description><![CDATA[Linux-Magazin.No.09.2025.GERMAN.HYBRID.MAGAZINE.eBook-LORENZ [485bdb3a4] [bdef8fb60]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/58839ff8c824fbdeadafba599066be50.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="58839ff8c824fbdeadafba599066be50" />
+</item>
+<item>
+	<title><![CDATA[Towerful.Defense.A.Rogue.TD.LINUX-RAZOR [a29886514] [2effecd37]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/1ed5592f666839396ce81fdd82a7c2ad</guid>
+	<link>https://wtfnzb.example/getnzb/1ed5592f666839396ce81fdd82a7c2ad.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/1ed5592f666839396ce81fdd82a7c2ad#comments</comments>
+        <pubDate>2026-08-02 10:45:06</pubDate>
+	<description><![CDATA[Towerful.Defense.A.Rogue.TD.LINUX-RAZOR [a29886514] [2effecd37]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/1ed5592f666839396ce81fdd82a7c2ad.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="1ed5592f666839396ce81fdd82a7c2ad" />
+</item>
+<item>
+	<title><![CDATA[Towerful.Defense.A.Rogue.TD.LINUX-RAZOR [e9e8c6f58] [4bba940e5]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/168f6f9d581cea0b06f7f8eaf40edcb1</guid>
+	<link>https://wtfnzb.example/getnzb/168f6f9d581cea0b06f7f8eaf40edcb1.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/168f6f9d581cea0b06f7f8eaf40edcb1#comments</comments>
+        <pubDate>2026-08-02 10:45:12</pubDate>
+	<description><![CDATA[Towerful.Defense.A.Rogue.TD.LINUX-RAZOR [e9e8c6f58] [4bba940e5]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/168f6f9d581cea0b06f7f8eaf40edcb1.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="168f6f9d581cea0b06f7f8eaf40edcb1" />
+</item>
+<item>
+	<title><![CDATA[Towerful Defense A Rogue TD LINUX-RAZOR [3cf10b36a]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/cb965ad01f23ba1817dda8767e7e1351</guid>
+	<link>https://wtfnzb.example/getnzb/cb965ad01f23ba1817dda8767e7e1351.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/cb965ad01f23ba1817dda8767e7e1351#comments</comments>
+        <pubDate>2026-08-02 01:06:04</pubDate>
+	<description><![CDATA[Towerful Defense A Rogue TD LINUX-RAZOR [3cf10b36a]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/cb965ad01f23ba1817dda8767e7e1351.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="cb965ad01f23ba1817dda8767e7e1351" />
+</item>
+<item>
+	<title><![CDATA[TominLab.WonderPen.v2.5.1.Debian.Linux.x64.Incl.Keygen-BTCR [1ba125743]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/7dc9dbef1ad84fffb40d7dc2c3d4235b</guid>
+	<link>https://wtfnzb.example/getnzb/7dc9dbef1ad84fffb40d7dc2c3d4235b.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/7dc9dbef1ad84fffb40d7dc2c3d4235b#comments</comments>
+        <pubDate>2026-08-01 11:57:09</pubDate>
+	<description><![CDATA[TominLab.WonderPen.v2.5.1.Debian.Linux.x64.Incl.Keygen-BTCR [1ba125743]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/7dc9dbef1ad84fffb40d7dc2c3d4235b.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="7dc9dbef1ad84fffb40d7dc2c3d4235b" />
+</item>
+<item>
+	<title><![CDATA[TominLab.WonderPen.v2.5.1.Debian.Linux.x64.Incl.Keygen-BTCR [ae98396cd] [0f8d2ceaa]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/19f1d0966cadbf213c248f0355b9786a</guid>
+	<link>https://wtfnzb.example/getnzb/19f1d0966cadbf213c248f0355b9786a.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/19f1d0966cadbf213c248f0355b9786a#comments</comments>
+        <pubDate>2026-08-01 11:57:16</pubDate>
+	<description><![CDATA[TominLab.WonderPen.v2.5.1.Debian.Linux.x64.Incl.Keygen-BTCR [ae98396cd] [0f8d2ceaa]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/19f1d0966cadbf213c248f0355b9786a.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="19f1d0966cadbf213c248f0355b9786a" />
+</item>
+<item>
+	<title><![CDATA[TominLab.WonderPen.v2.5.1.Debian.Linux.x64.Incl.Keygen-BTCR [6a0e62a02]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/de2b085340bac5e379c3991c80e8769e</guid>
+	<link>https://wtfnzb.example/getnzb/de2b085340bac5e379c3991c80e8769e.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/de2b085340bac5e379c3991c80e8769e#comments</comments>
+        <pubDate>2026-08-01 10:54:23</pubDate>
+	<description><![CDATA[TominLab.WonderPen.v2.5.1.Debian.Linux.x64.Incl.Keygen-BTCR [6a0e62a02]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/de2b085340bac5e379c3991c80e8769e.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="de2b085340bac5e379c3991c80e8769e" />
+</item>
+<item>
+	<title><![CDATA[Valentina.Server.v15.4.1.Linux.x64.RPM.Incl.Keyfilemaker-CORE [531cbb3d3]]]></title>
+	<guid isPermaLink="true">https://wtfnzb.example/details/60ed0acf5c735c0dfa68343fa1274e71</guid>
+	<link>https://wtfnzb.example/getnzb/60ed0acf5c735c0dfa68343fa1274e71.nzb&amp;r=REDACTED&amp;i=REDACTED</link>
+	<comments>https://wtfnzb.example/details/60ed0acf5c735c0dfa68343fa1274e71#comments</comments>
+        <pubDate>2026-08-01 04:08:26</pubDate>
+	<description><![CDATA[Valentina.Server.v15.4.1.Linux.x64.RPM.Incl.Keyfilemaker-CORE [531cbb3d3]]]></description>
+	<enclosure url="https://wtfnzb.example/getnzb/60ed0acf5c735c0dfa68343fa1274e71.nzb&amp;r=REDACTED&amp;i=REDACTED" type="application/x-nzb" />
+	<newznab:attr name="guid" value="60ed0acf5c735c0dfa68343fa1274e71" />
+</item>
+</channel>
+</rss>

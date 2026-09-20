@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:newznab="http://www.newznab.com/DTD/2010/feeds/attributes/">
+<channel>
+<atom:link href="https://wtfnzb.example/api" rel="self" type="application/rss+xml" />
+<title>WtF[nZb]</title>
+<description>WtF[nZb] APi Feed | You are searching in last 100k releases, to search older releases go there: https://wtfnzb.example/_search_</description>
+<link>https://wtfnzb.example/</link>
+<language>en-gb</language>
+<webMaster>wtfnzb@tuta.io (WtF[nZb])</webMaster>
+<category></category>
+<image>
+	<title>WtF[nZb]</title>
+	<link>https://wtfnzb.example/</link>
+	<description>Visit WtF[nZb] - Fastest nzb source!</description>
+</image>
+<newznab:response offset="0" total="0" />
+</channel>
+</rss>

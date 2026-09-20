@@ -1,0 +1,10 @@
+{
+  "root": "{http://www.newzbin.com/DTD/2003/nzb}nzb",
+  "files": 10,
+  "segments": 343,
+  "nonpositive_numbers": 1,
+  "nonpositive_bytes": 0,
+  "segment_bytes_sum": 258183668,
+  "usenet_client_invoked": false,
+  "article_availability_verified": false
+}
