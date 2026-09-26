@@ -1,8 +1,12 @@
-# prek.toml — Git hooks for wtfnzb-adapter
+# prek.toml — pre-commit hooks configuration
 # Docs: https://prek.j178.dev/configuration/
-default_stages = ["pre-commit"]
-default_install_hook_types = ["pre-commit", "commit-msg"]
+#:schema https://www.schemastore.org/prek.json
 
+minimum_prek_version = "0.3.2"
+default_install_hook_types = ["pre-commit", "commit-msg"]
+default_stages = ["pre-commit", "manual"]
+
+# Builtin hooks — fast, offline, Rust-native
 [[repos]]
 repo = "builtin"
 hooks = [
@@ -19,16 +23,24 @@ hooks = [
   { id = "no-commit-to-branch", args = ["--branch", "main"] },
 ]
 
+# Conventional Commits — enforce Conventional Commit message format
 [[repos]]
 repo = "https://github.com/compilerla/conventional-pre-commit"
 rev = "v4.4.0"
-hooks = [{ id = "conventional-pre-commit", stages = ["commit-msg"] }]
+hooks = [
+  { id = "conventional-pre-commit", stages = ["commit-msg"] },
+]
 
+# Secret / credential leak guard — fixtures and dotfiles must never carry tokens
 [[repos]]
 repo = "https://github.com/gitleaks/gitleaks"
 rev = "v8.30.1"
-hooks = [{ id = "gitleaks" }]
+hooks = [
+  { id = "gitleaks" },
+]
 
+# Local hooks — project-specific quality gates
+# Keep the full-project lock, lint, and strict typing-policy checks.
 [[repos]]
 repo = "local"
 hooks = [
