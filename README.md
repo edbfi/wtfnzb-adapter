@@ -157,14 +157,16 @@ uv run --locked ruff check .
 uv run --locked python tools/check_basedpyright_config.py
 uv run --locked basedpyright
 uv run --locked pytest
-uv run --locked prek validate-config prek.toml
-uv run --locked prek run --all-files
+uv run --locked prek validate-config .pre-commit-config.yaml
+uv run --locked prek run --all-files --hook-stage manual
 uv build
+uv run --locked python scripts/smoke.py
 ```
 
 Both Git hook stages are installed. The pre-commit gates always check the whole
 project, including configuration-only changes; direct commits to `main` are blocked.
-Use Conventional Commits. CI also runs tests and builds without live credentials.
+Use Conventional Commits. CI runs the manual hook stage (the gates above), the build
+and the smoke test (`/health` and `caps` with a dummy config) without live credentials.
 
 **Typing warnings require code fixes.** No global diagnostic overrides, baselines,
 competing configurations, file-wide pragmas, or blanket ignores are permitted.

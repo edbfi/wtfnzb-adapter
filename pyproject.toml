@@ -40,7 +40,7 @@ dev = [
 [tool.ruff]
 target-version = "py314"
 line-length = 100
-src = ["src", "tests", "tools"]
+src = ["src", "tests", "tools", "scripts"]
 
 [tool.ruff.lint]
 select = ["E", "W", "F", "I", "B", "UP", "SIM", "TC", "ASYNC", "RUF"]
@@ -60,7 +60,7 @@ quote-style = "double"
 # at genuinely untyped third-party call sites are permitted (subject to review).
 pythonVersion = "3.14"
 typeCheckingMode = "recommended"
-include = ["src", "tests", "tools"]
+include = ["src", "tests", "tools", "scripts"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
