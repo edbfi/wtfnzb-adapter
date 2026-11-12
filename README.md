@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/wtfnzb-adapter-logo.svg" alt="wtfnzb-adapter logo" width="256" height="256">
+  <img src="docs/assets/wtfnzb-adapter-logo.svg" alt="wtfnzb-adapter logo" width="160" height="160">
 </p>
 
 <h1 align="center">wtfnzb-adapter</h1>
@@ -7,7 +7,7 @@
 <p align="center"><strong>An experimental Newznab adapter for WTFNZB and Prowlarr.</strong></p>
 
 <p align="center">
-  <a href="https://github.com/edbfi/wtfnzb-adapter/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0--only-blue?style=flat" alt="License: AGPL-3.0-only"></a>
+  <a href="https://github.com/edbfi/wtfnzb-adapter/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0--or--later-blue?style=flat" alt="License: AGPL-3.0-or-later"></a>
   <a href="https://github.com/python/cpython" title="CPython source"><img src="https://img.shields.io/badge/Python-3776AB?style=flat" alt="Python"></a>
   <a href="https://github.com/litestar-org/litestar"><img src="https://img.shields.io/badge/Litestar-202235?style=flat" alt="Litestar"></a>
   <a href="https://github.com/emmett-framework/granian"><img src="https://img.shields.io/badge/Granian-007C91?style=flat" alt="Granian"></a>
@@ -186,3 +186,13 @@ competing configurations, file-wide pragmas, or blanket ignores are permitted.
 The only exception is a justified, rule-specific inline
 `# pyright: ignore[reportRule] -- justification` at a genuinely untyped third-party
 call site, subject to review. See [typing policy](docs/typing-policy.md).
+
+## License
+
+Original code in wtfnzb-adapter is free software: you may redistribute it and/or
+modify it under the GNU Affero General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option) any
+later version (`AGPL-3.0-or-later`). See [LICENSE](LICENSE) for the full terms.
+
+Third-party components and captured upstream material are excluded from this
+grant and retain their existing terms and notices.
