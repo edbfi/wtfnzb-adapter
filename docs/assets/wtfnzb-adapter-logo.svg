@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">wtfnzb-adapter logo</title>
+  <desc id="desc">An NZB document joining two connectors.</desc>
+  <rect x="12" y="12" width="232" height="232" rx="48" fill="#172638" stroke="#74869b" stroke-width="2"/>
+  <path d="M76 58a16 16 0 0 1 16-16h52l36 36v120a16 16 0 0 1-16 16H92a16 16 0 0 1-16-16Z" fill="#f3f6fa"/>
+  <path d="M144 42v26a10 10 0 0 0 10 10h26" fill="#b7c9db"/>
+  <g fill="none" stroke="#172638" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M94 125v-24l16 24v-24m10 0h16l-16 24h16m10 0v-24h9a6 6 0 0 1 0 12h-9m9 0a6 6 0 0 1 0 12h-9"/>
+    <path d="M96 179h64m-64 12h40" stroke-width="4"/>
+  </g>
+  <path d="M48 153h160" fill="none" stroke="#007c91" stroke-width="8"/>
+  <rect x="32" y="137" width="24" height="32" rx="6" fill="#ffba69"/>
+  <rect x="200" y="137" width="24" height="32" rx="6" fill="#61d7de"/>
+</svg>
