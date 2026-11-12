@@ -1,4 +1,17 @@
-# wtfnzb-adapter
+<p align="center">
+  <img src="docs/assets/wtfnzb-adapter-logo.svg" alt="wtfnzb-adapter logo" width="256" height="256">
+</p>
+
+<h1 align="center">wtfnzb-adapter</h1>
+
+<p align="center"><strong>An experimental Newznab adapter for WTFNZB and Prowlarr.</strong></p>
+
+<p align="center">
+  <a href="https://github.com/edbfi/wtfnzb-adapter/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0--only-blue?style=flat" alt="License: AGPL-3.0-only"></a>
+  <a href="https://github.com/python/cpython" title="CPython source"><img src="https://img.shields.io/badge/Python-3776AB?style=flat" alt="Python"></a>
+  <a href="https://github.com/litestar-org/litestar"><img src="https://img.shields.io/badge/Litestar-202235?style=flat" alt="Litestar"></a>
+  <a href="https://github.com/emmett-framework/granian"><img src="https://img.shields.io/badge/Granian-007C91?style=flat" alt="Granian"></a>
+</p>
 
 Experimental Newznab adapter for WTFNZB and Prowlarr, using Python 3.14,
 Litestar, Granian and msgspec. It runs, but **reliable, comprehensive movie
