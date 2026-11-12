@@ -3,7 +3,7 @@ name = "wtfnzb-adapter"
 version = "0.1.0"
 description = "Experimental, bounded WTFNZB Newznab adapter"
 readme = "README.md"
-license = "AGPL-3.0-only"
+license = "AGPL-3.0-or-later"
 license-files = ["LICENSE"]
 authors = [
     { name = "edbfi", email = "326875205+edbfi@users.noreply.github.com" }
