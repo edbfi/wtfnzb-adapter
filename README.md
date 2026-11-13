@@ -11,6 +11,7 @@
   <a href="https://github.com/python/cpython" title="CPython source"><img src="https://img.shields.io/badge/Python-3776AB?style=flat" alt="Python"></a>
   <a href="https://github.com/litestar-org/litestar"><img src="https://img.shields.io/badge/Litestar-202235?style=flat" alt="Litestar"></a>
   <a href="https://github.com/emmett-framework/granian"><img src="https://img.shields.io/badge/Granian-007C91?style=flat" alt="Granian"></a>
+  <a href="https://github.com/edbfi/wtfnzb-adapter/actions/workflows/ci.yml?query=branch%3Amain"><img src="https://img.shields.io/github/actions/workflow/status/edbfi/wtfnzb-adapter/ci.yml?branch=main&amp;event=push&amp;label=CI&amp;style=flat" alt="CI"></a>
 </p>
 
 Experimental Newznab adapter for WTFNZB and Prowlarr, using Python 3.14,
